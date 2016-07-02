@@ -275,4 +275,8 @@
     <string name="network_options_title">Options</string>
     <string name="network_traffic_autohide_title">Hide network traffic indicator if inactive</string>
     <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Play Store</string>
+
 </resources>
