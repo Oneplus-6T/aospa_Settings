@@ -262,4 +262,8 @@
     <!-- Battery light -->
     <string name="battery_light_title">Battery light</string>
 
+    <!-- PA maintainer -->
+    <string name="maintainer">Who to blame (Maintainer)</string>
+    <string name="aospa_maintainer" translatable="false">Akshat</string>
+
 </resources>
